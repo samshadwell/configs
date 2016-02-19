@@ -37,6 +37,10 @@
 "    -> Misc
 "    -> Helper functions
 "
+"
+" Plugins:
+"  vim-better-whitespace
+"  vim-colors-solarized
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 call pathogen#infect()
